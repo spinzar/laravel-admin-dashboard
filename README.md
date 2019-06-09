@@ -11,6 +11,8 @@ After cloning the repository, go to the root folder and run the following comman
 Next steps:
   
 • Rename .env.example to .env and provide your database details. 
+
+
 • php artisan key:generate
 
 
