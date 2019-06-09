@@ -15,6 +15,8 @@ Next steps:
 
 • php artisan key:generate
 
+• php artisan migrate 
+
 
 • Register
 
